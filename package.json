@@ -1,0 +1,24 @@
+{
+  "name": "dt-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCavanaugh/dt-analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanCavanaugh/dt-analysis/issues"
+  },
+  "homepage": "https://github.com/RyanCavanaugh/dt-analysis#readme",
+  "dependencies": {
+    "@types/node": "^12.11.2",
+    "typescript": "^3.7.0-dev.20191018"
+  }
+}
